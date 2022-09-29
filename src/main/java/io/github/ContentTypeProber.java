@@ -1,4 +1,4 @@
-package org.echo;
+package io.github;
 
 import java.io.IOException;
 import java.io.InputStream;
