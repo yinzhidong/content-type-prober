@@ -18,7 +18,9 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 /**
- * Unit test for simple App.
+ * mvn release:perform -Darguments="-DskipTests"
+ * export GPG_TTY=$(tty)
+ * mvn clean deploy -P release
  */
 public class AppTest {
 

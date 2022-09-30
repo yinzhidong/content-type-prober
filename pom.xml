@@ -4,8 +4,12 @@
     <groupId>io.github.yinzhidong</groupId>
     <artifactId>content-type-prober</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0-SNAPSHOT</version>
+<!--    <version>1.0.0-SNAPSHOT</version>-->
+    <version>1.0.0</version>
     <name>content-type-prober</name>
+    <description>content-type-prober</description>
+    <url>https://github.com/yinzhidong/content-type-prober</url>
+
 
     <properties>
         <java.version>1.8</java.version>
